@@ -1,7 +1,7 @@
 # 📂 Projects
 
 ### 🗄️ SQL Project
-**Status:** Coming Soon  
+**Status:**  https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1schrome-sum-495608-t9!2sExploration_Project!3shomelessness 
 Description: This project will showcase my ability to query, analyze, and manage data using SQL. It will include real-world datasets and demonstrate skills in data extraction, joins, and reporting.
 
 ---
