@@ -16,5 +16,7 @@ Description: This capstone project will highlight my cumulative skills and knowl
 ---
 
 ### 📉 Excel Project
-**Status:** Coming Soon  
-Description: This project will demonstrate my proficiency in Excel, including data analysis, formulas, pivot tables, and data visualization techniques.
+**Status:** https://1drv.ms/x/c/a8409c8cd897a099/IQCsEmbwZ3-RR53zhtPLMPHHAZJ6K788pN0D2fyMLGcBIbM?e=gKKCyN  
+**Sales Data Analysis Project**
+
+Created and analyzed a sales performance dataset using Microsoft Excel to track monthly and yearly sales trends for multiple products. Organized sales data into structured tables and calculated total annual sales to support business performance analysis. Evaluated monthly sales patterns for Product A and Product B, identifying seasonal trends and fluctuations to assist with data-driven decision-making. Utilized Excel functions, data organization techniques, and reporting methods to improve data accuracy and accessibility for stakeholders.
